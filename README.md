@@ -6,7 +6,7 @@ This project is the start to a portfolio template.
 
 1. Clone the repo
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/NhicolasAponte/photography-portfolio.git
    ```
 2. Run project
    ```sh
