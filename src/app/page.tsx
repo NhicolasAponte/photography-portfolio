@@ -1,11 +1,14 @@
-import HomepageCarousel from "@/components/homepage/homepage-carousel";
+// import HomepageCarousel from "@/components/homepage/homepage-carousel";
 
 export default function HomePage() {
-  const items: string[] = ["1", "2", "3"];
+  // const items: string[] = ["1", "2", "3"];
 
   return (
     <main>
-      <HomepageCarousel items={items} />
+      {/* <HomepageCarousel items={items} /> */}
+      <div>
+        home page 
+      </div>
     </main>
   );
 }
